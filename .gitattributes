@@ -1,0 +1,5 @@
+*.ico binary
+src/**/*.astro linguist-detectable
+public/** linguist-vendored
+package-lock.json linguist-generated
+src/*.astro linguist-detectable
